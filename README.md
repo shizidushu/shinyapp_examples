@@ -1,2 +1,2 @@
 # shinyapp_examples
-Collects shiny app example
+Collects shiny app examples for my references.
